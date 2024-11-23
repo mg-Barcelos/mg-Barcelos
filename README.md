@@ -1,4 +1,4 @@
-## 💚 Olá, meu nome é <strong>Miguel Barcelos!</strong>
+##  Olá, meu nome é <strong>Miguel Barcelos!</strong>
 - 🎓 &nbsp; Estudante de Ciência da Computação pela UFPEL.
 - 🌱 &nbsp;  Aprendendo programação sobre desenvolvimento Back-end e Front-end.
 
