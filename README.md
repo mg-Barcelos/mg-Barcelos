@@ -6,7 +6,7 @@
 <h4 align="left">📚 No momento, estou me dedicando aos estudos e logo você poderá conferir alguns projetos de:</h4>
 
   [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
-  cpp,cs,js,html,css)](https://skillicons.dev)
+  
 **DevOps**
 
 [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
